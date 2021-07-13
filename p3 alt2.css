@@ -1,0 +1,59 @@
+#header-nav {
+
+    background-color: lightcoral;
+
+    border: 0;
+
+}
+
+ 
+
+.navbar-nav {
+
+    margin: 0;
+
+}
+
+ 
+
+#bs-example-navbar-collapse-1 {
+
+    background-color: white;
+
+}
+
+ 
+
+.navbar-collapse {
+
+    margin-right: 0px;
+
+    padding: 0;
+
+    border: none;
+
+}
+
+ 
+
+h1, h4 {
+
+    text-align: center;
+
+}
+
+.row {
+
+    margin: auto;
+
+}
+
+.row > div {
+
+    border: 2px solid red;
+
+    background-color: gray;
+
+    margin-bottom: 10px;
+
+}
